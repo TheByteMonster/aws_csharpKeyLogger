@@ -1,0 +1,8 @@
+C:\Users\alexs\OneDrive\Documents\GitHub\AWSConsoleKeyLogger\AWSConsoleKeyLogger\bin\Debug\AWSConsoleKeyLogger.exe.config
+C:\Users\alexs\OneDrive\Documents\GitHub\AWSConsoleKeyLogger\AWSConsoleKeyLogger\bin\Debug\AWSConsoleKeyLogger.exe
+C:\Users\alexs\OneDrive\Documents\GitHub\AWSConsoleKeyLogger\AWSConsoleKeyLogger\bin\Debug\AWSConsoleKeyLogger.pdb
+C:\Users\alexs\OneDrive\Documents\GitHub\AWSConsoleKeyLogger\AWSConsoleKeyLogger\obj\Debug\AWSConsoleKeyLogger.csproj.AssemblyReference.cache
+C:\Users\alexs\OneDrive\Documents\GitHub\AWSConsoleKeyLogger\AWSConsoleKeyLogger\obj\Debug\AWSConsoleKeyLogger.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexs\OneDrive\Documents\GitHub\AWSConsoleKeyLogger\AWSConsoleKeyLogger\obj\Debug\AWSConsoleKeyLogger.csproj.CoreCompileInputs.cache
+C:\Users\alexs\OneDrive\Documents\GitHub\AWSConsoleKeyLogger\AWSConsoleKeyLogger\obj\Debug\AWSConsoleKeyLogger.exe
+C:\Users\alexs\OneDrive\Documents\GitHub\AWSConsoleKeyLogger\AWSConsoleKeyLogger\obj\Debug\AWSConsoleKeyLogger.pdb
